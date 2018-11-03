@@ -1,0 +1,33 @@
+{
+  "name": "quiz_app",
+  "version": "1.0.1",
+  "private": true,
+  "dependencies": {
+    "keystone": "latest",
+    "underscore": "latest"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.3.x"
+  },
+  "scripts": {
+    "start": "web.js"
+  },
+  "description": "Online Quiz Management System",
+  "main": "web.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rkdaredevil/Quiz_App.git"
+  },
+  "keywords": [
+    "Quiz",
+    "App"
+  ],
+  "author": "Rupesh Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rkdaredevil/Quiz_App/issues"
+  },
+  "homepage": "https://github.com/rkdaredevil/Quiz_App#readme"
+}
